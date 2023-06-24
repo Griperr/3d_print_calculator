@@ -1,0 +1,8 @@
+Printer name: AAA
+Price for kWh: 0,71
+Material name: BBB
+Material price per kg: 65
+Currency: zł
+Printer Power: 360
+Profit margin: 0
+Tax: 0

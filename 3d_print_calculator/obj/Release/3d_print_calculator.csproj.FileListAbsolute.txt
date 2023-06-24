@@ -1,0 +1,16 @@
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\bin\Release\3d_print_calculator.exe.config
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\bin\Release\3d_print_calculator.exe.manifest
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\bin\Release\3d_print_calculator.application
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\bin\Release\3d_print_calculator.exe
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\bin\Release\3d_print_calculator.pdb
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\obj\Release\3d_print_calculator.csproj.AssemblyReference.cache
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\obj\Release\3d_print_calculator.csproj.SuggestedBindingRedirects.cache
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\obj\Release\_3d_print_calculator.Form1.resources
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\obj\Release\_3d_print_calculator.PopUpForm.resources
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\obj\Release\_3d_print_calculator.Properties.Resources.resources
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\obj\Release\3d_print_calculator.csproj.GenerateResource.cache
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\obj\Release\3d_print_calculator.csproj.CoreCompileInputs.cache
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\obj\Release\3d_print_calculator.exe.manifest
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\obj\Release\3d_print_calculator.application
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\obj\Release\3d_print_calculator.exe
+D:\visual\projekty\3d_print_calculator\3d_print_calculator\obj\Release\3d_print_calculator.pdb
